@@ -1,0 +1,33 @@
+body{
+  background:gray;
+  
+}
+.question{
+  width:30vw;
+  border:1px solid black;
+  color:white;
+  border-radius:5px;
+  margin:3% 3% 0 3%;
+}
+.answer{
+  width:30vw;
+  border:1px solid black;
+  color:white;
+  border-radius:5px;
+  margin:0 3%;
+}
+button{
+  height:50%;
+  color:black;
+  background-color: yellow;
+  margin-right:2%;
+  border-radius:30px;
+}
+h2{
+  margin-left:2%;
+}
+.flex{
+  display:flex;
+  justify-content: space-between;
+  align-items: center;
+}
